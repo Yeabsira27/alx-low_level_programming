@@ -1,4 +1,5 @@
-#include<studio.h>
+vi 4-puts.c
+#include <studio.h>
 /**
  * main-Entry point
  * Return: Always 0 (success)
